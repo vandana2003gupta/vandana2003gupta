@@ -84,10 +84,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandana2003gupta&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vandana2003gupta&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="180" />
-</p>
-
 
 ---
 
