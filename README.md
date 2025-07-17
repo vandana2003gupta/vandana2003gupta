@@ -48,13 +48,15 @@
 
 ---
 
+
 ### 📌 Profile Highlights
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Commits-561-purple?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/Projects%20Completed-10-success?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Hackathons%20Participated-17-blue?style=for-the-badge&logo=hackthebox" />
-  <img src="https://img.shields.io/badge/Machine%20Learning%20Models-Deployed-orange?style=for-the-badge&logo=scikitlearn" />
+  <img src="https://img.shields.io/badge/Total%20Commits-561-purple?style=flat-square&logo=git" />
+  <img src="https://img.shields.io/badge/Projects%20Completed-10-brightgreen?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/Hackathons%20Participated-17-blue?style=flat-square&logo=devpost" />
+  <img src="https://img.shields.io/badge/ML%20Models%20Deployed-5-orange?style=flat-square&logo=scikitlearn" />
+  <img src="https://img.shields.io/badge/Generative%20AI%20Projects-3-ff69b4?style=flat-square&logo=openai" />
 </p>
 
 ---
@@ -62,9 +64,9 @@
 ### 📈 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vandana2003gupta&theme=react-dark" alt="Vandana's GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vandana2003gupta&theme=react-dark&hide_border=true" alt="Vandana's GitHub Activity Graph" />
 </p>
----
+
 
 ### 🚀 Highlight Projects
 
