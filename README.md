@@ -53,7 +53,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Total%20Commits-561-purple?style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/badge/Projects%20Completed-10-success?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Hackathons%20Participated-5-blue?style=for-the-badge&logo=hackthebox" />
+  <img src="https://img.shields.io/badge/Hackathons%20Participated-17-blue?style=for-the-badge&logo=hackthebox" />
   <img src="https://img.shields.io/badge/Machine%20Learning%20Models-Deployed-orange?style=for-the-badge&logo=scikitlearn" />
 </p>
 
