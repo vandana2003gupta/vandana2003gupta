@@ -3,7 +3,7 @@
 <h3 align="center"> Data Analyst and Data Science Enthusiast | 🖼️ Computer Vision Developer | 📊 BI Analytics | Gen AI Developer | AI/ML Developer
   <break></break>
   #OpenToWork #OpenToNetwork #SeekingOpportunites
-
+<break></break>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vandana2003gupta&label=Profile%20views&color=0e75b6&style=flat" alt="vandana2003gupta" />
   <img src="https://img.shields.io/badge/Profile%20Rating-A-blueviolet?style=flat-square&logo=github" />
