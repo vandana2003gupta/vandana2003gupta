@@ -1,13 +1,63 @@
 <h1 align="center">Hi 👋, I'm Vandana Gupta</h1>
-<h3 align="center">🚀 Data Scientist | 🧠 Machine Learning Engineer | ☁️ Google Cloud Enthusiast | 🤖 GenAI & NLP | 📊 Big Data Analyst</h3>
-
----
+<h3 align="center">🚀 Data Scientist | 🤖 GenAI Enthusiast | 🖼️ Computer Vision Developer | 📊 BI Analyst | ☁️ Google Cloud Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vandana2003gupta&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=vandana2003gupta&label=Profile%20views&color=0e75b6&style=flat" alt="vandana2003gupta" />
+  <img src="https://img.shields.io/badge/Profile%20Rating-A-blueviolet?style=flat-square&logo=github" />
 </p>
 
 ---
+
+### 💡 About Me
+- 🎓 B.Tech in Computer Science (Data Science), ABES Engineering College (2022–2026)
+- 🌟 Passionate about solving real-world problems with AI, ML, and Big Data
+- 🤝 Open to collaborations in **AI, NLP, CV, and Cloud ML**
+- 📫 Reach me at: vandana2003gupta@gmail.com
+
+---
+
+### 🧠 Skills & Technologies (Organized by Domain)
+
+#### 🤖 Machine Learning & AI
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
+![Seaborn](https://img.shields.io/badge/Seaborn-5381D1?style=for-the-badge)
+> 🔧 Algorithms: Linear/Logistic Regression, Decision Trees, KNN, SVM, Naive Bayes, Clustering (K-Means), Ensemble Models, Hyperparameter Tuning
+
+#### 🧠 Generative AI & NLP
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=google&logoColor=white)
+![Speech Recognition](https://img.shields.io/badge/Speech%20Recognition-FF6F00?style=for-the-badge)
+
+#### 🖼️ Computer Vision
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-orange?style=for-the-badge)
+
+#### ☁️ Cloud, DevOps & Deployment
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+#### 📊 Data Analytics & BI
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
+
+### 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vandana2003gupta&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandana2003gupta&layout=compact&theme=radical" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vandana2003gupta&theme=radical" height="180" />
+</p>
 
 ---
 
@@ -17,83 +67,32 @@
 
 ---
 
-### 🔧 Tech Stack & Tools
+### 🚀 Highlight Projects
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+- 🧠 [**Multiple Disease Detection System**](https://github.com/vandana2003gupta/Data-Science-Project)  
+  ML models + Streamlit UI + Gemini 1.5 for intelligent disease predictions
 
-  <!-- Data & AI -->
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/GenAI-430098?style=for-the-badge&logo=openai&logoColor=white" />
+- 🗣️ [**Voice Bot – Anagha**](https://github.com/vandana2003gupta/Voice-Bot-Anagha-Desktop-Application)  
+  Desktop voice assistant using speech recognition, NLP, and real-time APIs
 
-  <!-- Cloud & DevOps -->
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+- 🖱️ [**Virtual AI Mouse**](https://github.com/vandana2003gupta/Virtual-Mouse)  
+  OpenCV + hand gesture-controlled desktop tool + voice automation
 
-  <!-- BI & Reporting -->
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+- 📊 [**Amazon Sales Dashboard**](https://github.com/vandana2003gupta/Amazon-Sales-Report-Dashboard)  
+  Power BI dashboard with custom KPIs, slicers, and DAX-based reports
+
+---
+
+### 🌐 Connect with Me
+
+<p>
+  <a href="mailto:vandana2003gupta@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vandana-gupta-987b05250/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/vandana2003gupta"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://leetcode.com/u/vandana_gupt01/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.hackerrank.com/profile/csds_22b1541061"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 </p>
 
 ---
 
-### 📌 Featured Projects
-
-- 🧠 **[Multiple Disease Detection System](https://github.com/vandana2003gupta/Data-Science-Project)**  
-  Streamlit app with ML models for predicting Diabetes, Heart Disease, Parkinson’s | Integrated Gemini Gen-AI Bot for medical PDFs/images
-
-- 🗣️ **[Voice Bot - Anagha (AI Assistant)](https://github.com/vandana2003gupta/Voice-Bot-Anagha-Desktop-Application)**  
-  NLP + Speech Recognition assistant that uses APIs like Wikipedia, Weather, PyWhatKit
-
-- ✋ **[Virtual AI Mouse using OpenCV](https://github.com/vandana2003gupta/Virtual-Mouse)**  
-  Webcam-based hand gesture control for touchless interaction + voice control
-
-- 📊 **[Amazon Fashion Sales Dashboard](https://github.com/vandana2003gupta/Amazon-Sales-Report-Dashboard)**  
-  Power BI dashboard showing KPIs, delivery insights, slicers, and trend analysis
-
----
-
-### 💡 Quick Facts
-
-- 🎓 B.Tech CSE (Data Science), ABES Engineering College | 2022–2026
-- 🔭 Working with **ML**, **NLP**, **OpenCV**, **Generative AI**, and **Big Data** systems
-- 🌱 Currently learning more about **Cloud ML Pipelines** and **Vertex AI**
-- 🏆 Winner – Power BI Dashboards, Hackathons (IIT Delhi, Amazon ML Challenge)
-
----
-
-### 📫 Reach Me At
-
-<p align="left">
-  <a href="mailto:vandana2003gupta@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/vandana-gupta-987b05250/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/vandana2003gupta"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/vandana_gupt01/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://www.hackerrank.com/profile/csds_22b1541061"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-  <a href="https://www.geeksforgeeks.org/user/vandana20jrk1/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vandana2003gupta&show_icons=true&theme=tokyonight&rank_icon=github" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandana2003gupta&layout=compact&theme=tokyonight" height="180"/>
-</p>
----
-
-### 🌟 “Turning data into insights. Turning insights into action. Turning action into impact.”  
+_“Turning data into insights. Turning insights into action. Turning action into impact.”_
