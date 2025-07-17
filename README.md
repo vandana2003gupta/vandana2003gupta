@@ -67,6 +67,15 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vandana2003gupta&theme=react-dark&hide_border=true" alt="Vandana's GitHub Activity Graph" />
 </p>
 
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vandana2003gupta&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandana2003gupta&layout=compact&theme=radical" height="180"/>
+</p>
+
 
 ### 🚀 Highlight Projects
 
