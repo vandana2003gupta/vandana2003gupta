@@ -48,23 +48,22 @@
 
 ---
 
-### 🔥 GitHub Stats
+### 📌 Profile Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vandana2003gupta&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandana2003gupta&layout=compact&theme=radical" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vandana2003gupta&theme=radical" height="180" />
+  <img src="https://img.shields.io/badge/Total%20Commits-561-purple?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Projects%20Completed-10-success?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Hackathons%20Participated-5-blue?style=for-the-badge&logo=hackthebox" />
+  <img src="https://img.shields.io/badge/Machine%20Learning%20Models-Deployed-orange?style=for-the-badge&logo=scikitlearn" />
 </p>
 
 ---
 
-### 📈 Contribution Graph
+### 📈 GitHub Contribution Graph
 
-[![Vandana's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=vandana2003gupta&theme=react-dark)](https://github.com/vandana2003gupta)
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vandana2003gupta&theme=react-dark" alt="Vandana's GitHub Activity Graph" />
+</p>
 ---
 
 ### 🚀 Highlight Projects
