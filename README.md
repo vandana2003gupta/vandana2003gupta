@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vandana Gupta</h1>
+<h1 align="center">Hello 👋, I'm Vandana Gupta</h1>
+<break></break>
 <h3 align="center"> Data Analyst and Data Science Enthusiast | 🖼️ Computer Vision Developer | 📊 BI Analytics | Gen AI Developer | AI/ML Developer
 #OpenToWork #OpenToNetwork #SeekingOpportunites
 
@@ -9,7 +10,7 @@
 
 ---
 
-### 💡 About Me
+### 💡About Me
 - 🎓 B.Tech in Computer Science (Data Science), ABES Engineering College (2022–2026), final year student
 - 🌟 Passionate about solving real-world problems with AI, ML, and Big Data
 - 🤝 Open to collaborations in **AI, NLP, CV, and Cloud ML**
@@ -44,7 +45,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ---
 
 ### Academic Coursework & Technical Foundations
@@ -54,10 +55,10 @@ Here are a few core subjects and technologies I’ve explored through my B.Tech 
 - **Machine Learning Technologies** – Supervised & Unsupervised Learning, Model Evaluation, Feature Engineering
 - **Soft Computing** – Neural Networks, Fuzzy Logic, Genetic Algorithms, Optimization Techniques
 - **Data Analytics & Visualization** – Data Wrangling, EDA, Power BI, Looker Studio, Matplotlib, Seaborn
-- **Big Data Analytics** – Hadoop Concepts, Spark Basics, Distributed Data Processing
-- **Language & DSA (Python)** – Recursion, Sorting, Searching, Stacks, Queues, Trees, Graphs (via Python)
+- **Big Data Analytics** – Hadoop Concepts, HIVE, NoSQL, Spark Basics, Distributed Data Processing
+- **Language & DSA (Python)** – Recursion, Sorting, Searching, Stacks, Queues, Trees, Graphs implemented in Python
 - **Software Project Management** – Agile/Scrum, SDLC, Risk & Quality Management, Documentation Practices
-
+- **Database Management System (DBMS)** – Relational Models, SQL Queries, Normalization, Transactions & Indexing
 
 ---
 ### Profile Highlights
