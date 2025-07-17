@@ -9,6 +9,14 @@
 
 ---
 
+---
+
+### 📈 Contribution Graph
+
+[![Vandana's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=vandana2003gupta&theme=react-dark)](https://github.com/vandana2003gupta)
+
+---
+
 ### 🔧 Tech Stack & Tools
 
 <p align="center">
