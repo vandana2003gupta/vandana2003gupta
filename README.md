@@ -1,7 +1,8 @@
 <h1 align="center">Hello 👋, I'm Vandana Gupta</h1>
 <break></break>
 <h3 align="center"> Data Analyst and Data Science Enthusiast | 🖼️ Computer Vision Developer | 📊 BI Analytics | Gen AI Developer | AI/ML Developer
-#OpenToWork #OpenToNetwork #SeekingOpportunites
+  <break></break>
+  #OpenToWork #OpenToNetwork #SeekingOpportunites
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vandana2003gupta&label=Profile%20views&color=0e75b6&style=flat" alt="vandana2003gupta" />
