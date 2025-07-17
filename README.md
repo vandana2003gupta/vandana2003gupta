@@ -72,7 +72,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vandana2003gupta&show_icons=true&theme=radical" height="180" style="margin-right: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vandana2003gupta&show_icons=true&theme=tokyonight&rank_icon=github" height="180" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandana2003gupta&layout=compact&theme=radical" height="180" />
 </p>
 
