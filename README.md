@@ -71,14 +71,14 @@
 
 ### 📊 GitHub Stats
 
-<p>
-  <p align="center">
+
+  <p align="right">
     <img src="https://github-readme-stats.vercel.app/api?username=vandana2003gupta&show_icons=true&theme=tokyonight&rank_icon=github" height="200" />
   </p>
-  <p align="center">
+  <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandana2003gupta&layout=compact&theme=radical" height="200"/>
   </p>
-</p>
+
 
 ---
 ### 🚀 Highlight Projects
