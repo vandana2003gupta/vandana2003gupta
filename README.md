@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Vandana Gupta</h1>
 <break></break>
-<h3 align="center"> Data Analyst and Data Science Enthusiast | 🖼️ Computer Vision Developer | 📊 BI Analytics | Gen AI Developer | AI/ML Developer
+<h3 align="center"> AI Enthusiast | 🖼️ Computer Vision Developer | 📊 BI Analytics | AI/ML Developer
   <break></break>
   #OpenToWork #OpenToNetwork #SeekingOpportunites
 <break></break>
