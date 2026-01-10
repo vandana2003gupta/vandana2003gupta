@@ -110,16 +110,16 @@ Here are a few core subjects and technologies I’ve explored through my B.Tech 
 ---
 ### Projects Highlight
 
-- 🧠 [**Multiple Disease Detection System**](https://github.com/vandana2003gupta/Data-Science-Project)  
+- [**Multiple Disease Detection System**](https://github.com/vandana2003gupta/Data-Science-Project)  
   ML models + Streamlit UI + Gemini 1.5 for intelligent disease predictions
 
-- 🗣️ [**Voice Bot – Anagha**](https://github.com/vandana2003gupta/Voice-Bot-Anagha-Desktop-Application)  
+- [**Voice Bot – Anagha**](https://github.com/vandana2003gupta/Voice-Bot-Anagha-Desktop-Application)  
   Desktop voice assistant using speech recognition, NLP, and real-time APIs
 
-- 🖱️ [**Virtual AI Mouse**](https://github.com/vandana2003gupta/Virtual-Mouse)  
+- [**Virtual AI Mouse**](https://github.com/vandana2003gupta/Virtual-Mouse)  
   OpenCV + hand gesture-controlled desktop tool + voice automation
 
-- 📊 [**Amazon Sales Dashboard**](https://github.com/vandana2003gupta/Amazon-Sales-Report-Dashboard)  
+- [**Amazon Sales Dashboard**](https://github.com/vandana2003gupta/Amazon-Sales-Report-Dashboard)  
   Power BI dashboard with custom KPIs, slicers, and DAX-based reports
 
 ---
