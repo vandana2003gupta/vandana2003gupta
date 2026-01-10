@@ -16,7 +16,7 @@
 ### 💡About Me
 - 🎓 B.Tech in Computer Science (Data Science), ABES Engineering College (2022–2026), final year student
 - 🌟 Passionate about solving real-world problems with AI, ML, and Big Data
-- 🤝 Open to collaborations in **AI, NLP, CV, and Cloud ML**
+- 🤝 Open to collaborations in **AI, and Computer Vision Projects**
 
 ---
 
