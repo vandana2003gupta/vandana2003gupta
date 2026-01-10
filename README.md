@@ -22,33 +22,44 @@
 
 ### Skills & Technologies 
 
-#### Machine Learning & AI
+## Machine Learning, Deep Learning & AI  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
 ![Seaborn](https://img.shields.io/badge/Seaborn-5381D1?style=for-the-badge)
 
-#### Generative AI & NLP
+## Generative AI, LLMs & NLP  
+![Generative AI](https://img.shields.io/badge/Generative%20AI-FF0080?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-4B0082?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG%20(LLM)-008080?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=google&logoColor=white)
 ![Speech Recognition](https://img.shields.io/badge/Speech%20Recognition-FF6F00?style=for-the-badge)
 
-#### Computer Vision
+## Computer Vision  
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-orange?style=for-the-badge)
 
-#### Cloud, DevOps & Deployment
+## Cloud, DevOps & Deployment  
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-#### Data Analytics & BI
+## Data Analytics & BI  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+
+## IDEs & Development Tools  
+![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyderide&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+
+
 ---
 
 ### Academic Coursework & Technical Foundations
@@ -62,6 +73,8 @@ Here are a few core subjects and technologies I’ve explored through my B.Tech 
 - **Language & DSA (Python)** – Recursion, Sorting, Searching, Stacks, Queues, Trees, Graphs implemented in Python
 - **Software Project Management** – Agile/Scrum, SDLC, Risk & Quality Management, Documentation Practices
 - **Database Management System (DBMS)** – Relational Models, SQL Queries, Normalization, Transactions & Indexing
+- **Deep Learning** - ANN, CNN, RNN, LSTM, word2vec, Data Augmentation, GAN
+- **Generative AI** - Applications, Tools, NLP, working of LLM
 
 ---
 ### Profile Highlights
