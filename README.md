@@ -67,11 +67,8 @@
 Here are a few core subjects and technologies I’ve explored through my B.Tech in Computer Science (Data Science):
 
 - **Machine Learning Technologies** – Supervised & Unsupervised Learning, Model Evaluation, Feature Engineering
-- **Soft Computing** – Neural Networks, Fuzzy Logic, Genetic Algorithms, Optimization Techniques
 - **Data Analytics & Visualization** – Data Wrangling, EDA, Power BI, Looker Studio, Matplotlib, Seaborn
 - **Big Data Analytics** – Hadoop Concepts, HIVE, NoSQL, Spark Basics, Distributed Data Processing
-- **Language & DSA (Python)** – Recursion, Sorting, Searching, Stacks, Queues, Trees, Graphs implemented in Python
-- **Software Project Management** – Agile/Scrum, SDLC, Risk & Quality Management, Documentation Practices
 - **Database Management System (DBMS)** – Relational Models, SQL Queries, Normalization, Transactions & Indexing
 - **Deep Learning** - ANN, CNN, RNN, LSTM, word2vec, Data Augmentation, GAN
 - **Generative AI** - Applications, Tools, NLP, working of LLM
